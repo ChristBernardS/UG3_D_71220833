@@ -10,4 +10,4 @@ try:
     elif nomor > 5000:
         print('Plat nomor tidak terindikasi ketiga angkutan tersebut')
 except:
-    print('Plat Nomor Tidak Terindikasi, harus terdapat nomor kendaraan setelah kode daerah')
+    print('Plat Nomor Tidak Terindikasi, setelah kode dearah harus berupa nomor kendaraan')
