@@ -10,15 +10,15 @@ except:
     elif nilai_lo == 'A-':
         print('Nilai anda adalah 3.75, kamu keren!')
     elif nilai_lo == 'B+':
-        print('Nilai anda adalah 3.25')
+        print('Nilai anda adalah 3.25, kamu hebat')
     elif nilai_lo == 'B':
-        print('Nilai anda adalah 3.0')
+        print('Nilai anda adalah 3.0, nilai minimal untuk memenuhi standar ortu')
     elif nilai_lo == 'B-':
         print('Nilai anda adalah 2.75, kurang semangat belajar nihh')
     elif nilai_lo == 'C+':
-        print('Nilai anda adalah 2.25')
+        print('Nilai anda adalah 2.25, belajar yang bener')
     elif nilai_lo == 'C':
-        print('Nilai anda adalah 2.0')
+        print('Nilai anda adalah 2.0, banyak mata kuliah yang harus kamu ulangi')
     elif nilai_lo == 'D':
         print('Nilai anda adalah 1.0, apakah sudah ada pikiran untuk pindah jurusan?')
     elif nilai_lo == 'E':
